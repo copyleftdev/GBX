@@ -1,0 +1,6 @@
+bin/
+pkg/
+darwin_amd64/
+src/9fans.net/
+src/github.com/
+src/golang.org/
